@@ -17,6 +17,7 @@
 			<Item Name="UI_MEX_CAFE_ESPAÑOL.lvlib" Type="Library" URL="../UI_MEX_CAFE_ESPAÑOL/UI_MEX_CAFE_ESPAÑOL.lvlib"/>
 		</Item>
 		<Item Name="GUARDADO.vi" Type="VI" URL="../DATABASE_MANEJO/DATABASE_MANEJO/GUARDADO.vi"/>
+		<Item Name="LAUNCHER.vi" Type="VI" URL="../UI_MEX_CAFE_ESPAÑOL/LAUNCHER.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
